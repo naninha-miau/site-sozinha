@@ -1,0 +1,60 @@
+* {
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+
+a {
+    color: rgb(139, 138, 138);
+    text-decoration: none;
+    display: inline-block; 
+    background-color: rgba(164, 21, 21, 0);
+}
+
+em {
+    color: rgb(79, 78, 78);
+}
+
+.oie-br {
+    color: rgb(138, 27, 27);
+
+}
+span {
+    color: rgb(210, 10, 10);
+}
+
+p {
+    color: white;
+}
+
+h1 {
+    color: rgb(146, 145, 145);
+}
+
+h2 {
+    color: rgb(146, 145, 145);
+}
+
+.mudaa {
+    color: rgb(255, 44, 44);
+}
+
+.bandas  {
+    color: rgb(252, 12, 12);
+}
+
+.bannn {
+    color: rgb(202, 42, 42);
+}
+
+.foo {
+    color: rgb(202, 185, 185);
+}
+
+.oii {
+    color: brown;
+    text-decoration: underline;
+}
